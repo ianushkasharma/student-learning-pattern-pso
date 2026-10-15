@@ -1,6 +1,6 @@
 # Student Learning Pattern Clustering 
 
-**Bio-Inspired Computing – Unsupervised Learning, Problem 20**
+**Bio-Inspired Computing – Unsupervised Learning, Problem No. 20**
 
 ## Problem
 Cluster students by **study hours, quiz performance, attendance and assignment completion** to find distinct learning patterns.
