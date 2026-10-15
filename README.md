@@ -2,8 +2,6 @@
 
 **Bio-Inspired Computing – Unsupervised Learning, Problem 20**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ianushkasharma/student-learning-pattern-pso/blob/main/Student_Learning_Pattern_Clustering_PSO.ipynb)
-
 ## Problem
 Cluster students by **study hours, quiz performance, attendance and assignment completion** to find distinct learning patterns.
 
